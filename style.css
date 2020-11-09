@@ -1,0 +1,60 @@
+.jumbotron {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.jumbotron .h1 {
+    text-align: center;
+
+}
+.nav .nav-item .nav-link {
+    color: black;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.navbar .navbar-brand {
+    color: black;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-style: italic;
+    
+}
+.bg_img {
+    background-image: url(https://puu.sh/GLquo/d607285ec0.png);
+    background-color: #ecf1f5;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+}
+h1 {
+    font-weight: bolder;
+    font-size: 80px;
+    text-align: center;
+}
+h2 {
+    color: grey;
+    font-size: 45px;
+    text-align: center;
+    
+}
+.width {
+    width: 50vw;
+    margin: auto;
+}
+.btn_default {
+    background-color: #27333F;
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 20px 50px;
+}
+.responsive_img {
+    width: 100%;
+}
+.col-padding{
+    padding: 30px;
+
+}
